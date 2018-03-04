@@ -9,6 +9,15 @@ gallery-extension for https://pagekit.com/
 - uses uikit-lightbox at the frontend
 - include slideshows to your blog post or site content with shortcodes -> simple use the button at the editor
 
+## Slide show
+This version uses for the slide show the following libraries:
+* [lightgallery](http://sachinchoolur.github.io/lightGallery/)
+* [justified-gallery](http://miromannino.github.io/Justified-Gallery/)
+
+Please check licenses!
+
+Live example: https://lemariva.com/blog/2018/03/photo-gallery-bangkok
+
 ## requirements
 - PHP GD extension
 

@@ -1,6 +1,6 @@
 # Changelog
-## 0.3.1a
-- slideshow modified
+## 0.3.1a (March 4, 2018)
+- modified slideshow
 
 ## 0.3.1
 - fixed image caching
